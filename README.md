@@ -3,6 +3,8 @@ This is a project aiming to demonstarte my database modelling and SQL skills.
 
 In the project, I **build a database** for a regular Russian polyclinic (no worries though, only tables' data are in Russian) and perform complex **SQL-queries to gain data** that could be used **for analysis**.
 
+See the project **here**: [Database_and_queries.pdf](https://github.com/Azidalus/Polyclinic-database/blob/dd05044409e08e9c7f2b2aee0a31937fcbf23e34/Database_and_queries.pdf)
+
 ## Description
 The database is designed for an imaginery polyclinic, assuming it'd be used in their information system. 
 
